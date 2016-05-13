@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ZimmerAnf
+comment0.text=\ \r\nZIMMERANF\ RESETTET\ DAS\ INVENTAR\r\n
+comment1.params=
+comment1.target=ZimmerAnf()
+comment1.text=\r\n\ Erschaffe\ eine\ Welt\ mit\ 14\ *\ 10\ Zellen.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=public\ void\ InvAnz()\ \ \r\n\ \ \ \ {\ \ \r\n\r\n\ \ \ \ GreenfootImage\ image\ \=\ new\ GreenfootImage(textImage);\ \r\n\ \ \ \ getBackground().drawImage(textImage,\ 300,\ 500);\ \ \r\n\r\n\ \ \ \ }\r\n
+comment3.params=
+comment3.target=void\ cAnz()
+comment3.text=public\ void\ Einleitung()\r\n\ \ \ \ {\r\n\ \ \ \ int\ einl\ \=\ 0;\r\n\ \ \ \ while(\ einl\ \=\=\ 0\ )\r\n\ \ \ \ {\r\n\ \ \ \ System.out.println("Open\ Alpha\ 0.1");\r\n\ \ \ \ System.out.println("Steuerung\:");\r\n\ \ \ \ System.out.println("\ \ \ \ Moveset\:\ W\ A\ S\ D\ /\ Pfeiltasten");\r\n\ \ \ \ System.out.println("Aktionen\:\ X");\ \r\n\ \ \ \ System.out.println("Aktionen\ sind\ mit\ folgenden\ Objekten\ m\u00F6glich\:");\r\n\ \ \ \ System.out.println("\ \ \ \ Zimmern,\ T\u00FCren,\ Items\ aller\ Art\ und\ NPCs");\r\n\ \ \ \ System.out.println("\u00A9LuckyLutscher\ 2015-2016,\ All\ rights\ reserved");\r\n\ \ \ \ einl\ \=\ 1;\r\n\r\n\ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=4
